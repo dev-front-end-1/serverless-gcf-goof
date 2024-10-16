@@ -2,7 +2,7 @@
 A sample vulnerable serverless application
 
 # Google Cloud Platform setup
-
+tet 
 ## Credentials
 
 Place appropriate Google Cloud Platform credentials in ~/.gcloud/keyfile.json,
